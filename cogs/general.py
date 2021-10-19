@@ -65,7 +65,7 @@ class General(commands.Cog):
 			"gef":{"cost": 1499,"name":"Nvidia GEFORCE RTX 3090","emoji":":desktop_computer:","single":True},
 			"rov":{"cost": 2725000000,"name":"trip to Mars + rover/drone/skycrane package","emoji":":robot: :rocket:","single":True},
 			"bez":{"cost": 74598,"name":"One minute of Jeff Bezos' time","emoji":":man_office_worker:","single":True},
-			"kid":{"cost": 200000,"name":"black market kidney","emoji":":detective: :aubergine:","single":True},
+			"kid":{"cost": 200000,"name":"black market kidney","emoji":":detective: :eggplant:","single":True},
 			"ukb":{"cost": 850000000000,"name":"British banking bailout","emoji":":flag_gb: :bank:","single":True}
 			}
 		blacklist = {
